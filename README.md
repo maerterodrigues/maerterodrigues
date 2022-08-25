@@ -14,8 +14,18 @@ O meu nome é Maerte, sou um Designer Grafíco Junior e também sou um entusiast
 # Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maerterodrigues&repo=maerterodrigues.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maerterodrigues&repo=semana-front-end-dio)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/maerte-rodrigues-a5246917a/)
+
+
+
+
+
+
+
+
+
 
 <!--
 **maerterodrigues/maerterodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
